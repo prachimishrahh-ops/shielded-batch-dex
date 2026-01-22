@@ -15,7 +15,7 @@
   <a href="https://testnet.explorer.provable.com/program/shielded_batch_dex_v2.aleo">View Contract</a> ·
   <a href="#quick-start">Quick Start</a> ·
   <a href="#how-it-works">How It Works</a> ·
-  <a href="#privacy-model">Privacy Model</a>
+  <a href="#privacy-model">Privacy Model</a> 
 </p>
 
 ---
